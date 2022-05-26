@@ -3,3 +3,7 @@ datasets/*
 inputs/*
 outputs/*
 models/*
+
+# virtual env
+env
+venv
