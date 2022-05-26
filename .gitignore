@@ -1,0 +1,5 @@
+# folder only get from local
+datasets/*
+inputs/*
+outputs/*
+models/*
