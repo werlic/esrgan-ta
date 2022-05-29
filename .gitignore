@@ -7,3 +7,6 @@ models/*
 # virtual env
 env
 venv
+
+# code editor
+.vscode
