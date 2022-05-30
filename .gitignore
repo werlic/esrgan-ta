@@ -1,8 +1,9 @@
 # folder only get from local
 datasets/*
-inputs/*
-outputs/*
+
 models/*
+experiments/*
+tb_logger
 
 # virtual env
 env
