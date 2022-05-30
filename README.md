@@ -5,5 +5,5 @@ python scripts/generate_meta_info.py --input datasets/img-align-celeb --root dat
 
 train with finetune from degraded images<br>
 ```
-python train.py -opt options/finetune_realesrgan_x4plus.yml --auto_resume
+python train/train.py -opt options/finetune_realesrgan_x4plus.yml --auto_resume
 ```
